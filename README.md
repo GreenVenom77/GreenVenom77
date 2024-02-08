@@ -2,7 +2,7 @@
 #### Hobbyist Game Developer and a Newbie Android Developer.
 ![Hobbyist Game Developer and a Newbie Android Developer.](https://media.licdn.com/dms/image/D4D16AQEBSFSvjYTEDQ/profile-displaybackgroundimage-shrink_350_1400/0/1707428114599?e=1712793600&v=beta&t=yg_6P17vAuRyoYEk9wjzsTnWlCn1Sr6KBC6_RtD4gVc)
 
-#### About me :thinking: :
+### About me :thinking: :
 
 I'm a CS Major in Suez University.
 
