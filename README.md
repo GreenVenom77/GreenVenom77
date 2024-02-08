@@ -10,7 +10,7 @@ Skills: Fast Learner / Unity / C# / Fishnet Networking / PostgreSql
 - 📫 How to reach me: an email at hossamwalidbs@gmail.com or a dm on Twitter or Linkedin, you can go to my profiles by clicking on the icons below. 
 
 
-[<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='40'>](https://github.com/GreenVenom77)  [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='40'>](https://www.linkedin.com/in/gv-hossamwalid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GreenVenom77)  
+[<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='40'>](https://github.com/GreenVenom77)  [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='40'>](https://www.linkedin.com/in/gv-hossamwalid/)  [<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GreenVenom77)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77)](https://github.com/anuraghazra/github-readme-stats)
 
