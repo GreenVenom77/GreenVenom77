@@ -2,11 +2,17 @@
 #### Hobbyist Game Developer and a Newbie Android Developer.
 ![Hobbyist Game Developer and a Newbie Android Developer.](https://media.licdn.com/dms/image/D4D16AQEBSFSvjYTEDQ/profile-displaybackgroundimage-shrink_350_1400/0/1707428114599?e=1712793600&v=beta&t=yg_6P17vAuRyoYEk9wjzsTnWlCn1Sr6KBC6_RtD4gVc)
 
+#### About me :thinking: :
+
 I'm a CS Major in Suez University.
+
 Started programming before going to college with some basic web stuff like JS and knew a little bit about Python.
+
 After going to college took an interest to Game Development and started my own journey as a hobbyist and started with Unity and took off with some C# knowledge.
+
 Because of it I made some projects with the language itself like a restaurant system called Khayaal (you can find it on my github profile),
 and some other private projects on unity and I have 2 of them on public the first is Capsule Wars which was a project to test a wave system for Unity's NavMesh.
+
 Second is Filters Lab which is a project to test my overall skills with Unity's camera and try to test my skills in multiplayer and got image filters asset to be the core of the game itself where you can open your mobile camera and apply the filters there while still maintaining the basics of character controlling with a joystick and moving the screen around the player.
 
 Now I'm Learning Android Development specifically Kotlin with JetPack Compose to make this my main field and my main source of income.
