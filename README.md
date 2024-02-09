@@ -20,7 +20,7 @@ Second is Filters Lab which is a project to test my overall skills with Unity's 
 
 Now I'm Learning Android Development specifically Kotlin with JetPack Compose to make this my main field and my main source of income.
 
-<h3 align="left">Skills:</h3>
+### Skills:
 
 <img src='https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg' alt='appwrite' width='40' height='40'> <img src="https://www.svgrepo.com/show/388730/terminal.svg" alt="bash" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.svgrepo.com/show/439145/docker.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.svgrepo.com/show/439174/gnu-linux.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
