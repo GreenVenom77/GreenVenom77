@@ -26,7 +26,7 @@ Second is Filters Lab which is a project to test my overall skills with Unity's 
 
 Now I'm Learning Android Development specifically Kotlin with JetPack Compose to make this my main field and my main source of income.
 
-#
+##
 
 - 🔭 I’m currently working on a small game called (Filters Lab) it's a small mobile game that you can use image filters and have your phone camera on to apply them and have some fun and I have it's repo public for everyone to see and add on it if they want. 
 - 🌱 I’m currently learning Android development specifically Kotlin with Jetpack Compose to have a larger knowledge base and might make it my main field. 
