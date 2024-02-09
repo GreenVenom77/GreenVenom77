@@ -7,8 +7,15 @@
 
 ### Skills:
 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.svgrepo.com/show/439174/gnu-linux.svg" alt="linux" width="40" height="40"/> <img src="https://www.svgrepo.com/show/388730/terminal.svg" alt="bash" width="40" height="40"> <img src='https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg' alt='appwrite' width='40' height='40'> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  <img src="https://www.svgrepo.com/show/439145/docker.svg" alt="docker" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/439174/gnu-linux.svg" alt="linux" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/388730/terminal.svg" alt="bash" width="40" height="40"> 
+<img src='https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg' alt='appwrite' width='40' height='40'> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  
+<img src="https://www.svgrepo.com/show/439145/docker.svg" alt="docker" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 
 ### About me :thinking: :
 
@@ -30,6 +37,8 @@ Now I'm Learning Android Development specifically Kotlin with JetPack Compose to
 - 📫 How to reach me: Send an email at hossamwalidbs@gmail.com or a dm on Twitter or Linkedin, you can go to my profiles by clicking on the icons below. 
 
 
-[<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='40'>](https://github.com/GreenVenom77)  [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='40'>](https://www.linkedin.com/in/gv-hossamwalid/)  [<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GreenVenom77)  
+[<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='40'>](https://github.com/GreenVenom77)  
+[<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='40'>](https://www.linkedin.com/in/gv-hossamwalid/)  
+[<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GreenVenom77)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&show_icons=true&theme=tokyonight&count_private=true)  
