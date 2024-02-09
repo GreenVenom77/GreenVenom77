@@ -1,7 +1,7 @@
 ### Hi 👋, my name is Hossam aka GreenVenom77
-#### Hobbyist Game Developer and a Newbie Android Developer.
+#### Hobbyist Game Developer and a Newbie Android Developer using Unity with C# and Android studio with Kotlin and JetPack Compose.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greenvenom77&label=Profile%20views&color=0e75b6&style=flat" alt="greenvenom77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=greenvenom77&label=Profile%20views&color=0e75b6&style=flat" alt="greenvenom77"/> </p>
 
 ![Hobbyist Game Developer and a Newbie Android Developer.](https://media.licdn.com/dms/image/D4D16AQEBSFSvjYTEDQ/profile-displaybackgroundimage-shrink_350_1400/0/1707428114599?e=1712793600&v=beta&t=yg_6P17vAuRyoYEk9wjzsTnWlCn1Sr6KBC6_RtD4gVc)
 
