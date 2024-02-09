@@ -6,7 +6,6 @@
 ![Hobbyist Game Developer and a Newbie Android Developer.](https://media.licdn.com/dms/image/D4D16AQEBSFSvjYTEDQ/profile-displaybackgroundimage-shrink_350_1400/0/1707428114599?e=1712793600&v=beta&t=yg_6P17vAuRyoYEk9wjzsTnWlCn1Sr6KBC6_RtD4gVc)
 
 ### Skills:
- https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://www.svgrepo.com/show/439174/gnu-linux.svg" alt="linux" width="60" height="60"/> <img src="https://www.svgrepo.com/show/388730/terminal.svg" alt="bash" width="60" height="60"> <img src='https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg' alt='appwrite' width='60' height='60'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>  <img src="https://www.svgrepo.com/show/439145/docker.svg" alt="docker" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> 
 
 ---
