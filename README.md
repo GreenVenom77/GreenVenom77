@@ -5,6 +5,11 @@
 
 ![Hobbyist Game Developer and a Newbie Android Developer.](https://media.licdn.com/dms/image/D4D16AQEBSFSvjYTEDQ/profile-displaybackgroundimage-shrink_350_1400/0/1707428114599?e=1712793600&v=beta&t=yg_6P17vAuRyoYEk9wjzsTnWlCn1Sr6KBC6_RtD4gVc)
 
+### Skills:
+
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.svgrepo.com/show/439174/gnu-linux.svg" alt="linux" width="40" height="40"/> <img src="https://www.svgrepo.com/show/388730/terminal.svg" alt="bash" width="40" height="40"> <img src='https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg' alt='appwrite' width='40' height='40'> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  <img src="https://www.svgrepo.com/show/439145/docker.svg" alt="docker" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+
 ### About me :thinking: :
 
 I'm a CS Major in Suez University.
@@ -19,11 +24,6 @@ and some other private projects on unity and I have 2 of them on public the firs
 Second is Filters Lab which is a project to test my overall skills with Unity's camera and try to test my skills in multiplayer and got image filters asset to be the core of the game itself where you can open your mobile camera and apply the filters there while still maintaining the basics of character controlling with a joystick and moving the screen around the player.
 
 Now I'm Learning Android Development specifically Kotlin with JetPack Compose to make this my main field and my main source of income.
-
-### Skills:
-
-<img src='https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg' alt='appwrite' width='40' height='40'> <img src="https://www.svgrepo.com/show/388730/terminal.svg" alt="bash" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.svgrepo.com/show/439145/docker.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.svgrepo.com/show/439174/gnu-linux.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 
 - 🔭 I’m currently working on a small game called (Filters Lab) it's a small mobile game that you can use image filters and have your phone camera on to apply them and have some fun and I have it's repo public for everyone to see and add on it if they want. 
 - 🌱 I’m currently learning Android development specifically Kotlin with Jetpack Compose to have a larger knowledge base and might make it my main field. 
