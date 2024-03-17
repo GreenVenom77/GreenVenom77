@@ -1,4 +1,4 @@
-### Hi 👋, my name is Hossam aka GreenVenom77
+### Hi 👋, my name is Hossam AKA GreenVenom77
 #### Hobbyist Game Developer and a Newbie Android Developer 
 #### Using Unity with C# and Android studio with Kotlin and JetPack Compose.
 
