@@ -28,7 +28,6 @@ Now I'm Learning Android Development specifically Kotlin with JetPack Compose to
 
 ---
 
-- 🔭 I’m currently working on a small game called (Filters Lab) it's a small mobile game that you can use image filters and have your phone camera on to apply them and have some fun and I have it's repo public for everyone to see and add on it if they want. 
 - 🌱 I’m currently learning Android development specifically Kotlin with Jetpack Compose to have a larger knowledge base and might make it my main field. 
 - 📫 How to reach me: Send an email at hossamwalidbs@gmail.com or a dm on Twitter or Linkedin, you can go to my profiles by clicking on the icons below. 
 
