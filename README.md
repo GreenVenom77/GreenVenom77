@@ -29,7 +29,7 @@ Now I'm Learning Android Development specifically Kotlin with JetPack Compose to
 ---
 
 - 🌱 I’m currently learning Android development specifically Kotlin with Jetpack Compose to have a larger knowledge base and might make it my main field. 
-- 📫 How to reach me: Send an email at hossamwalidbs@gmail.com or a dm on Twitter or Linkedin, you can go to my profiles by clicking on the icons below. 
+- 📫 How to reach me: Send an email at hossamwalidgv@gmail.com or a dm on Twitter or Linkedin, you can go to my profiles by clicking on the icons below. 
 
 
 [<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='40'>](https://github.com/GreenVenom77)  [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='40'>](https://www.linkedin.com/in/gv-hossamwalid/)  [<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GreenVenom77)  
