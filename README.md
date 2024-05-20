@@ -34,4 +34,4 @@ Now I'm Learning Android Development specifically Kotlin with JetPack Compose to
 
 [<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='40'>](https://github.com/GreenVenom77)  [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='40'>](https://www.linkedin.com/in/gv-hossamwalid/)  [<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GreenVenom77)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&show_icons=true&theme=tokyonight&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&show_icons=true&theme=tokyonight&count_private=true)  
