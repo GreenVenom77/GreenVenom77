@@ -43,7 +43,7 @@ I thrive in environments that value innovation, collaboration, and continuous le
 - 📫 How to reach me: Send an email at hossamwalidgv@gmail.com or LinkedIn by clicking on the icon below.
 
 
-[<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='60'>](https://github.com/GreenVenom77) [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='60'>](https://www.linkedin.com/in/hossamwalid-gv/)
+[<img src='https://cdn-icons-png.flaticon.com/512/726/726623.png' alt='github' height='60'>](mailto:hossamwalidgv@gmail.com) [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='60'>](https://www.linkedin.com/in/hossamwalid-gv/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&theme=gotham&show_icons=true&count_private=true&show=prs_merged#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=GreenVenom77#gh-dark-mode-only) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&theme=catppuccin_latte&show_icons=true&count_private=true&show=prs_merged#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=GreenVenom77#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77&layout=donut&theme=gotham&size_weight=0.5&count_weight=0.5&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77&layout=donut&theme=catppuccin_latte&size_weight=0.5&count_weight=0.5&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
