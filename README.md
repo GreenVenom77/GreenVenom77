@@ -1,37 +1,50 @@
-### Hi 👋, my name is Hossam AKA GreenVenom77
-#### Hobbyist Game Developer and a Newbie Android Developer 
-#### Using Unity with C# and Android studio with Kotlin and JetPack Compose.
+### Hi 👋, my name is Hossam Walid AKA GreenVenom77
+#### Aspiring Android Developer 
+#### Building Android Applications with Kotlin and Jetpack Compose.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greenvenom77&label=Profile%20views&color=0e75b6&style=flat" alt="greenvenom77"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=greenvenom77&label=Profile%20views&color=0e75b6&style=for-the-badge&color=brightgreen" alt="greenvenom77"/> </p>
 
-![Hobbyist Game Developer and a Newbie Android Developer.](Logo.png)
+![](Logo.png)
 
-### Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://www.svgrepo.com/show/439174/gnu-linux.svg" alt="linux" width="60" height="60"/> <img src="https://www.svgrepo.com/show/388730/terminal.svg" alt="bash" width="60" height="60"> <img src='https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg' alt='appwrite' width='60' height='60'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>  <img src="https://www.svgrepo.com/show/439145/docker.svg" alt="docker" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/> 
+## Tech Stack:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="60" height="60"/> <img src="https://insert-koin.io/img/koin_new_logo.png" alt="koin" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" alt="ktor" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="60" height="60"/> <img src="https://firebase.google.com/_static/firebase/images/icon.svg" alt="firebase" width="60" height="60"/> 
+
 
 ---
 
-### About me :thinking: :
+## About me :thinking: :
 
-I'm a CS Major in Suez University.
+I am a dedicated Android Developer and a senior Computer Science student at Suez University (2021-2025). 
 
-Started programming before going to college with some basic web stuff like JS and knew a little bit about Python.
+My career started in Game Development, where I contributed to award-winning projects, but I transitioned to Mobile Development to focus on creating impactful applications.
 
-After going to college took an interest to Game Development and started my own journey as a hobbyist and started with Unity and took off with some C# knowledge.
+I specialize in Android Development with expertise in Kotlin, Jetpack Compose, and modern Android architectures. 
 
-Because of it I made some projects with the language itself like a restaurant system called Khayaal (you can find it on my github profile),
-and some other private projects on unity and I have 2 of them on public the first is Capsule Wars which was a project to test a wave system for Unity's NavMesh.
+My journey began with resources from Google's developer.android platform and formal training through the ITI Android Development track, equipping me with the skills to design, develop, and deliver high-quality applications.
 
-Second is Filters Lab which is a project to test my overall skills with Unity's camera and try to test my skills in multiplayer and got image filters asset to be the core of the game itself where you can open your mobile camera and apply the filters there while still maintaining the basics of character controlling with a joystick and moving the screen around the player.
+Currently, I am:
 
-Now I'm Learning Android Development specifically Kotlin with JetPack Compose to make this my main field and my main source of income.
+- Working on my Graduation Project, combining my expertise and advanced mobile development techniques.
+
+- Developing personal projects to explore new technologies and refine my skills.
+
+My goal is to build efficient, user-focused mobile solutions that address real-world challenges.
+
+I thrive in environments that value innovation, collaboration, and continuous learning.
 
 ---
 
-- 🌱 I’m currently learning Android development specifically Kotlin with Jetpack Compose to have a larger knowledge base and might make it my main field. 
-- 📫 How to reach me: Send an email at hossamwalidgv@gmail.com or a dm on Twitter or Linkedin, you can go to my profiles by clicking on the icons below. 
+- 🌱 I’m currently working on:
+  
+  1- Graduation Project: [Seravian](https://github.com/Seravian/Seravian-App) where you can talk to an AI Model to diagnosing your mental illness and Book appointments with Psychiatrists (Egypt only).
+  
+  2- Personal project: [TrackHub](https://github.com/GreenVenom77/TrackHub) where you can keep track of your items whither they are out of stock or not like Kitchen needs, Warehouse items, etc… and you can update them yourself.
+  
+- 📫 How to reach me: Send an email at hossamwalidgv@gmail.com or LinkedIn by clicking on the icon below.
 
 
-[<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='40'>](https://github.com/GreenVenom77)  [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='40'>](https://www.linkedin.com/in/gv-hossamwalid/)  [<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GreenVenom77)  
+[<img src='https://i1.wp.com/www.afp548.com/wp-content/uploads/2014/08/GitHub.png?fit=1024%2C1024&ssl=1' alt='github' height='60'>](https://github.com/GreenVenom77) [<img src='https://www.svgrepo.com/show/448234/linkedin.svg' height='60'>](https://www.linkedin.com/in/hossamwalid-gv/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&show_icons=true&theme=tokyonight&count_private=true)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&theme=gotham&show_icons=true&count_private=true&show=prs_merged#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=GreenVenom77#gh-dark-mode-only) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenVenom77&theme=catppuccin_latte&show_icons=true&count_private=true&show=prs_merged#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=GreenVenom77#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77&layout=donut&theme=gotham&size_weight=0.5&count_weight=0.5&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenVenom77&layout=donut&theme=catppuccin_latte&size_weight=0.5&count_weight=0.5&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![](https://hit.yhype.me/github/profile?account_id=52512719)
