@@ -22,12 +22,6 @@ I specialize in Android Development with expertise in Kotlin, Jetpack Compose, a
 
 My journey began with resources from Google's developer.android platform and formal training through the ITI Android Development track, equipping me with the skills to design, develop, and deliver high-quality applications.
 
-Currently, I am:
-
-- Working on my Graduation Project, combining my expertise and advanced mobile development techniques.
-
-- Developing personal projects to explore new technologies and refine my skills.
-
 My goal is to build efficient, user-focused mobile solutions that address real-world challenges.
 
 I thrive in environments that value innovation, collaboration, and continuous learning.
