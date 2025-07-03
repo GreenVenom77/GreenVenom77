@@ -30,7 +30,7 @@ I thrive in environments that value innovation, collaboration, and continuous le
 
 - 🌱 I’m currently working on:
     
-  2- Personal project: [TrackHub](https://github.com/GreenVenom77/TrackHub) where you can keep track of your items whether they are out of stock or not like Kitchen needs, Warehouse items, etc… and you can update them yourself.
+  - Personal project: [TrackHub](https://github.com/GreenVenom77/TrackHub) where you can keep track of your items whether they are out of stock or not like Kitchen needs, Warehouse items, etc… and you can update them yourself.
   
 - 📫 How to reach me: Send an email at hossamwalidgv@gmail.com or LinkedIn by clicking on the icon below.
 
