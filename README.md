@@ -14,7 +14,7 @@
 
 ## About me :thinking: :
 
-I am a dedicated Android Developer and a senior Computer Science student at Suez University (2021-2025). 
+I am a dedicated Android Developer and Computer Science graduate from Suez University (2021-2025). 
 
 My career started in Game Development, where I contributed to award-winning projects, but I transitioned to Mobile Development to focus on creating impactful applications.
 
@@ -29,9 +29,7 @@ I thrive in environments that value innovation, collaboration, and continuous le
 ---
 
 - 🌱 I’m currently working on:
-  
-  1- Graduation Project: [Seravian](https://github.com/Seravian/Seravian-App) where you can talk to an AI Model to diagnosing your mental illness and Book appointments with Psychiatrists (Egypt only).
-  
+    
   2- Personal project: [TrackHub](https://github.com/GreenVenom77/TrackHub) where you can keep track of your items whether they are out of stock or not like Kitchen needs, Warehouse items, etc… and you can update them yourself.
   
 - 📫 How to reach me: Send an email at hossamwalidgv@gmail.com or LinkedIn by clicking on the icon below.
