@@ -1,0 +1,56 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=GreenVenom77&theme=gotham&show_icons=true&count_private=true&show=prs_merged
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=GreenVenom77&theme=catppuccin_latte&show_icons=true&count_private=true&show=prs_merged
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=GreenVenom77&layout=donut&theme=gotham&size_weight=0.5&count_weight=0.5&count_private=true
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=GreenVenom77&layout=donut&theme=catppuccin_latte&size_weight=0.5&count_weight=0.5&count_private=true
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
