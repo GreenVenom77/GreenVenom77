@@ -3,10 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greenvenom77&label=Profile%20views&color=0e75b6&style=for-the-badge&color=brightgreen" alt="greenvenom77"/> </p>
 
-![](Logo.png)
+<img src="Logo.png" alt="Logo"/>
 
 ## Tech Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="60" height="60"/> <img src="https://insert-koin.io/img/koin_new_logo.png" alt="koin" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" alt="ktor" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="60" height="60"/>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="60"/>
+  <img src="https://insert-koin.io/img/koin_new_logo.png" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="60"/>
+</p>
 
 
 ---
