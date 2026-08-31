@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card (dark mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=GreenVenom77&theme=gotham&show_icons=true&count_private=true&show=prs_merged
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (light mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=GreenVenom77&theme=catppuccin_latte&show_icons=true&count_private=true&show=prs_merged
@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (dark mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=GreenVenom77&layout=donut&theme=gotham&size_weight=0.5&count_weight=0.5&count_private=true
@@ -40,7 +40,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (light mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=GreenVenom77&layout=donut&theme=catppuccin_latte&size_weight=0.5&count_weight=0.5&count_private=true
