@@ -126,14 +126,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 35.46%
+        C# 35.45%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 32.29%
+        Kotlin 32.30%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -165,8 +165,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="35.46"
-          d="M 161.52926539115495 151.28542381935276 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
+          size="35.45"
+          d="M 161.55100814083147 151.25722898562418 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
           stroke="#7355dd"
           fill="none"
           stroke-width="12">
@@ -176,8 +176,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="32.29"
-          d="M 65.77843737356511 141.59655295850186 A 56.66666666666667 56.66666666666667 0 0 0 161.52926539115495 151.28542381935276"
+          size="32.3"
+          d="M 65.77843737356511 141.59655295850186 A 56.66666666666667 56.66666666666667 0 0 0 161.55100814083147 151.25722898562418"
           stroke="#A97BFF"
           fill="none"
           stroke-width="12">
